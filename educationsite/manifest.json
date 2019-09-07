@@ -1,0 +1,17 @@
+{
+    "manifest_version":2,
+    "name":"Shortcut To Desired Education",
+    "version":"1.0",
+    "description":"find your desired school in your city",
+    "icons":{
+        "128":"icon128.png",
+        "48":"icon48.png",
+        "16":"icon16.png"
+    },
+    "browser_action":{
+        "default_icon":"icon128.png",
+        "default_popup":"popup.html"
+    },
+    "content_security_policy": "script-src 'self' https://github.com/soniaditya196/web-VR/blob/master/scenery.html; object-src 'self'"
+
+}
