@@ -1,2 +1,2 @@
-# chrome_extension_for_desired_education
+# Chrome extension for desired education
 A chrome extension for searching the right school for your kids in your locality
